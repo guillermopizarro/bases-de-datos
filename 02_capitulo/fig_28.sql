@@ -1,0 +1,8 @@
+CREATE TABLE pais (
+    id_pais BIGINT NOT NULL AUTO_INCREMENT,
+    nombre  VARCHAR(20) NOT NULL
+) ENGINE=InnoDB;
+
+ALTER TABLE pais
+  ADD CONSTRAINT pk_pais PRIMARY KEY (id_pais);
+

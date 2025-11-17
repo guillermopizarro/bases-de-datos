@@ -1,0 +1,87 @@
+@startuml
+entity Carrera << (T,#efd52e) >> {
+  id_carrera BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+}
+entity Programa_Academico << (T,#efd52e) >> {
+  codigo VARCHAR(20) NN <<PK>>
+  --
+  fecha_inicio DATE NN
+  fecha_finalizacion DATE N
+  id_carrera BIGINT NN  <<FK>>
+}
+entity Materia_Programa_Academico << (T,#efd52e) >> {
+  id_programa_academico  VARCHAR(20) NN <<PK>> <<FK>>
+  id_materia BIGINT NN <<PK>> <<FK>>
+  --
+}
+entity Periodo << (T,#efd52e) >> {
+  id_periodo BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+}
+entity Materia << (T,#efd52e) >> {
+  codigo BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+}
+entity Curso << (T,#efd52e) >> {
+  id_curso BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+  id_docente VARCHAR(10) N <<FK>>
+  id_materia BIGINT NN <<FK>>
+  id_periodo BIGINT NN <<FK>>
+}
+entity Matricular << (T,#efd52e) >> {
+  id_estudiante VARCHAR(10) NN  <<PK>> <<FK>>
+  id_curso BIGINT NN  <<PK>> <<FK>>
+  --
+  fecha_registro TIMESTAMP NN
+}
+entity Ciudad << (T,#efd52e) >> {
+  id_ciudad BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN 
+  id_pais BIGINT NN <<FK>>
+}
+entity Pais << (T,#efd52e) >> {
+  id_pais BIGINT NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+}
+entity Estudiante << (T,#efd52e) >> {
+  cedula VARCHAR(10) NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+  apellido VARCHAR(50) NN
+  email_institucional VARCHAR(20) NN
+  email  VARCHAR(20) NN
+  domicilio  VARCHAR(100) NN
+  telefono  VARCHAR(20) NN  
+  telefono_convencional  VARCHAR(20) N  
+  id_ciudad BIGINT NN
+}
+entity Docente << (T,#efd52e) >> {
+  cedula VARCHAR(10) NN <<PK>>
+  --
+  nombre VARCHAR(50) NN
+  apellido VARCHAR(50) NN
+  email_institucional VARCHAR(20) NN
+  email  VARCHAR(20) NN
+  domicilio  VARCHAR(100) NN
+  telefono  VARCHAR(20) NN  
+  telefono_convencional  VARCHAR(20) N  
+}
+Materia_Programa_Academico -- Materia : codigo = id_materia
+Programa_Academico -- Materia_Programa_Academico: codigo = id_programa_academico
+Carrera -- Programa_Academico : id_carrera = id_carrera
+Periodo -- Curso : id_periodo = id_periodo
+Materia -- Curso : codigo = id_materia
+Estudiante -- Matricular : cedula = id_estudiante
+Estudiante -- Ciudad : id_ciudad = id_ciudad
+Curso -- Docente : id_docente = cedula
+Ciudad -- Pais : id_pais = id_pais
+Matricular -- Curso : id_curso = id_curso
+@enduml

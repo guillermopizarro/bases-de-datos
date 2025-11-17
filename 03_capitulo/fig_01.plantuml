@@ -1,0 +1,279 @@
+@startuml
+
+' ==== DEFINICIONES DE ESTILO ====
+!define primary_key(x) <b><color:#b8861b><&key></color> x</b>
+!define foreign_key(x) <color:#aaaaaa><&key></color> x
+!define column(x) <color:#efefef><&media-record></color> x
+!define table(x) entity x << (T, #efd52e) >>
+
+' ============================================================================
+'                                   TABLES
+' ============================================================================
+
+table(purchase_order_status) {
+  primary_key(id): INT NN
+  --
+  column(status): VARCHAR(50)
+}
+
+table(suppliers) {
+  primary_key(id): INT NN
+  --
+  column(company): VARCHAR(50)
+  column(first_name): VARCHAR(50)
+  column(last_name): VARCHAR(50)
+  column(email_address): VARCHAR(50)
+  column(job_title): VARCHAR(50)
+  column(business_phone): VARCHAR(25)
+  column(home_phone): VARCHAR(22)
+  column(mobile_phone): VARCHAR(20)
+  column(fax_number): VARCHAR(22)
+  column(address): LONGTEXT
+  column(city): VARCHAR(50)
+  column(state_province): VARCHAR(50)
+  column(zip_postal_code): VARCHAR(10)
+  column(country_region): VARCHAR(50)
+  column(web_page): LONGTEXT
+  column(notes): LONGTEXT
+  column(attachments): LONGBLOB
+}
+
+table(employees) {
+  primary_key(id): INT NN
+  --
+  column(company): VARCHAR(50)
+  column(first_name): VARCHAR(50)
+  column(last_name): VARCHAR(50)
+  column(email_address): VARCHAR(50)
+  column(job_title): VARCHAR(50)
+  column(business_phone): VARCHAR(25)
+  column(home_phone): VARCHAR(22)
+  column(mobile_phone): VARCHAR(20)
+  column(fax_number): VARCHAR(22)
+  column(address): LONGTEXT
+  column(city): VARCHAR(50)
+  column(state_province): VARCHAR(50)
+  column(zip_postal_code): VARCHAR(10)
+  column(country_region): VARCHAR(50)
+  column(web_page): LONGTEXT
+  column(notes): LONGTEXT
+  column(attachments): LONGBLOB
+}
+
+table(privileges) {
+  primary_key(id): INT NN
+  --
+  column(privilege_name): VARCHAR(50)
+}
+
+table(employee_privileges) {
+  foreign_key(employee_id): INT NN
+  foreign_key(privilege_id): INT NN
+}
+
+table(customers) {
+  primary_key(id): INT NN
+  --
+  column(company): VARCHAR(50)
+  column(first_name): VARCHAR(50)
+  column(last_name): VARCHAR(50)
+  column(email_address): VARCHAR(50)
+  column(job_title): VARCHAR(50)
+  column(business_phone): VARCHAR(25)
+  column(home_phone): VARCHAR(22)
+  column(mobile_phone): VARCHAR(20)
+  column(fax_number): VARCHAR(22)
+  column(address): LONGTEXT
+  column(city): VARCHAR(50)
+  column(state_province): VARCHAR(50)
+  column(zip_postal_code): VARCHAR(10)
+  column(country_region): VARCHAR(50)
+  column(web_page): LONGTEXT
+  column(notes): LONGTEXT
+  column(attachments): LONGBLOB
+}
+
+table(orders_status) {
+  primary_key(id): INT NN
+  --
+  column(status_name): VARCHAR(50)
+}
+
+table(orders_tax_status) {
+  primary_key(id): INT NN
+  --
+  column(tax_status_name): VARCHAR(50)
+}
+
+table(shippers) {
+  primary_key(id): INT NN
+  --
+  column(company): VARCHAR(50)
+  column(first_name): VARCHAR(50)
+  column(last_name): VARCHAR(50)
+  column(email_address): VARCHAR(50)
+  column(job_title): VARCHAR(50)
+  column(business_phone): VARCHAR(25)
+  column(home_phone): VARCHAR(22)
+  column(mobile_phone): VARCHAR(20)
+  column(fax_number): VARCHAR(22)
+  column(address): LONGTEXT
+  column(city): VARCHAR(50)
+  column(state_province): VARCHAR(50)
+  column(zip_postal_code): VARCHAR(10)
+  column(country_region): VARCHAR(50)
+  column(web_page): LONGTEXT
+  column(notes): LONGTEXT
+  column(attachments): LONGBLOB
+}
+
+table(orders) {
+  primary_key(id): INT NN
+  --
+  foreign_key(employee_id): INT
+  foreign_key(customer_id): INT
+  column(order_date): DATETIME
+  column(shipped_date): DATETIME
+  foreign_key(shipper_id): INT
+  column(ship_name): VARCHAR(50)
+  column(ship_address): LONGTEXT
+  column(ship_city): VARCHAR(50)
+  column(ship_state_province): VARCHAR(50)
+  column(ship_zip_postal_code): VARCHAR(10)
+  column(ship_country_region): VARCHAR(50)
+  column(shipping_fee): DECIMAL(19,4)
+  column(taxes): DECIMAL(19,4)
+  column(payment_type): VARCHAR(50)
+  column(paid_date): DATETIME
+  column(notes): LONGTEXT
+  foreign_key(tax_rate): INT
+  foreign_key(tax_status_id): TINYINT
+  foreign_key(status_id): TINYINT
+}
+
+table(invoices) {
+  primary_key(id): INT NN
+  --
+  foreign_key(order_id): INT
+  column(invoice_date): DATETIME
+  column(due_date): DATETIME
+  column(tax): DECIMAL(19,4)
+  column(shipping): DECIMAL(19,4)
+  column(amount_due): DECIMAL(19,4)
+}
+
+table(products) {
+  primary_key(id): INT NN
+  --
+  foreign_key(supplier_ids): INT
+  column(product_code): VARCHAR(25)
+  column(product_name): LONGTEXT
+  column(description): LONGTEXT
+  column(standard_cost): DECIMAL(19,4)
+  column(list_price): DECIMAL(19,4)
+  foreign_key(target_level): INT
+  foreign_key(reorder_level): INT
+  foreign_key(minimum_reorder_quantity): INT
+  foreign_key(category): INT
+  column(attachments): LONGBLOB
+}
+
+table(order_details) {
+  primary_key(id): INT NN
+  --
+  foreign_key(order_id): INT NN
+  foreign_key(product_id): INT NN
+  column(quantity): DECIMAL(18,4) NN
+  column(unit_price): DECIMAL(19,4)
+  column(discount): DOUBLE
+  column(status_id): INT
+  column(date_allocated): DATETIME
+  foreign_key(purchase_order_id): INT
+  foreign_key(inventory_id): INT
+}
+
+table(order_details_status) {
+  primary_key(id): INT NN
+  --
+  column(status_name): VARCHAR(50) NN
+}
+
+table(purchase_orders) {
+  primary_key(id): INT NN
+  --
+  foreign_key(supplier_id): INT
+  foreign_key(created_by): INT
+  foreign_key(submitted_by): INT
+  column(submitted_date): DATETIME
+  column(creation_date): DATETIME
+  column(approved_date): DATETIME
+  foreign_key(approved_by): INT
+  column(ship_date): DATETIME
+  column(shipping_fee): DECIMAL(19,4)
+  column(taxes): DECIMAL(19,4)
+  column(payment_date): DATETIME
+  column(payment_amount): DECIMAL(19,4)
+  column(payment_method): VARCHAR(50)
+  column(notes): LONGTEXT
+  foreign_key(status_id): INT
+}
+
+table(inventory_transaction_types) {
+  primary_key(id): INT NN
+  --
+  column(type_name): VARCHAR(50) NN
+}
+
+table(inventory_transactions) {
+  primary_key(id): INT NN
+  --
+  foreign_key(transaction_type): TINYINT NN
+  column(transaction_created_date): DATETIME
+  column(transaction_modified_date): DATETIME
+  foreign_key(product_id): INT NN
+  column(quantity): INT NN
+  foreign_key(purchase_order_id): INT
+  foreign_key(customer_order_id): INT
+  column(comments): VARCHAR(255)
+}
+
+table(purchase_order_details) {
+  primary_key(id): INT NN
+  --
+  foreign_key(purchase_order_id): INT NN
+  foreign_key(product_id): INT NN
+  column(quantity): INT NN
+  column(unit_cost): DECIMAL(19,4)
+  column(date_received): DATETIME
+  column(posted_to_inventory): TINYINT NN
+  foreign_key(inventory_id): INT
+}
+
+' ============================================================================
+'                               RELATIONSHIPS
+' ============================================================================
+
+suppliers -- products : supplier_ids = id
+products -- order_details : id = product_id
+customers -- orders : id = customer_id
+employees -- orders : id = employee_id
+orders -- order_details : id = order_id
+orders -- invoices : id = order_id
+order_details_status -- order_details : id = status_id
+orders_status -- orders : id = status_id
+orders_tax_status -- orders : id = tax_status_id
+shippers -- orders : id = shipper_id
+privileges -- employee_privileges : id = privilege_id
+employees -- employee_privileges : id = employee_id
+suppliers -- purchase_orders : id = supplier_id
+employees -- purchase_orders : id = created_by
+employees -- purchase_orders : id = submitted_by
+employees -- purchase_orders : id = approved_by
+purchase_order_status -- purchase_orders : id = status_id
+purchase_orders -- purchase_order_details : id = purchase_order_id
+products -- purchase_order_details : id = product_id
+purchase_orders -- inventory_transactions : id = purchase_order_id
+order_details -- inventory_transactions : id = customer_order_id
+inventory_transaction_types -- inventory_transactions : id = transaction_type
+
+@enduml

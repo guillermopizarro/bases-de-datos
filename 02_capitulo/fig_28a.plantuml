@@ -1,0 +1,7 @@
+@startuml
+entity Pais << (T,#efd52e) >> {
+  id_pais BIGINT NOT NULL <<PK>>
+  --
+  nombre VARCHAR(50) NN
+}
+@enduml

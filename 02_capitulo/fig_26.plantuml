@@ -1,0 +1,14 @@
+@startuml
+entity Pais << (T,#efd52e) >> {
+  *id_pais <<PK>>
+  --
+  *nombre
+}
+entity Ciudad << (T,#efd52e) >> {
+  *id_ciudad <<PK>>
+  --
+  *nombre
+  *id_pais  <<FK>>
+}
+Pais -- Ciudad : id_pais = id_pais
+@enduml

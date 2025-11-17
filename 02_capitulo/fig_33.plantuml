@@ -1,0 +1,20 @@
+@startuml
+
+!define primary_key(x) <b><color:#b8861b><&key></color> x</b>
+!define foreign_key(x) <color:#aaaaaa><&key></color> x
+!define column(x) <color:#efefef><&media-record></color> x
+!define table(x) entity x << (T, #efd52e) >>
+
+table( Pais ) {
+  primary_key( id_pais ): BIGINT
+  --
+  column( nombre ): VARCHAR(20) NN 
+}
+table( Ciudad ) {
+  primary_key( id_ciudad ): BIGINT
+  --
+  column( nombre ): VARCHAR(20) NN
+  foreign_key( id_pais ): BIGINT NN
+}
+Pais -- Ciudad : id_pais = id_pais
+@enduml

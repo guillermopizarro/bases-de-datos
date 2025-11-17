@@ -1,0 +1,4146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="10716.528"
+   preserveAspectRatio="none"
+   version="1.1"
+   viewBox="0 0 15931.065 10716.528"
+   width="15931.065"
+   zoomAndPan="magnify"
+   id="svg1018"
+   sodipodi:docname="fig_01.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="fig_01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1020"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.049367985"
+     inkscape:cx="8132.801"
+     inkscape:cy="5621.0518"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1018" />
+  <defs
+     id="defs2" />
+  <g
+     id="elem_purchase_order_status"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="12"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="purchase_order_status"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="185"
+       x="1793"
+       y="159.5" />
+    <circle
+       cx="1808"
+       cy="175.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse5"
+       r="11" />
+    <path
+       d="m 1808.8438,182.25 h -2.4532 V 172 h -3.1406 v -2.1406 h 8.7344 V 172 h -3.1406 z"
+       fill="#000000"
+       id="path7"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="153"
+       x="1822"
+       y="180.93201"
+       id="text9"
+       style="stroke-width:0.0200054">purchase_order_status</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1794"
+       x2="1977"
+       y1="191.5"
+       y2="191.5"
+       id="line11" />
+    <path
+       d="m 1806.4167,201.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path13" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1814.3333"
+       y="210.4659"
+       id="text15"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1827.3333"
+       y="210.4659"
+       id="text17"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1794"
+       x2="1977"
+       y1="218.5679"
+       y2="218.5679"
+       id="line19" />
+    <path
+       d="m 1803.5,228.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path21" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="136"
+       x="1814.3333"
+       y="237.53391"
+       id="text23"
+       style="stroke-width:0.0200054">status: VARCHAR(50)</text>
+  </g>
+  <g
+     id="elem_suppliers"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="18"
+       fill="#f1f1f1"
+       height="391.2225"
+       id="suppliers"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="231.3333"
+       x="1131"
+       y="7" />
+    <circle
+       cx="1210.9167"
+       cy="23"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse27"
+       r="11" />
+    <path
+       d="m 1211.7604,29.75 h -2.4531 V 19.5 h -3.1406 v -2.1406 h 8.7343 V 19.5 h -3.1406 z"
+       fill="#000000"
+       id="path29"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="63"
+       x="1231.4167"
+       y="28.431999"
+       id="text31"
+       style="stroke-width:0.0200054">suppliers</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1132"
+       x2="1361.3333"
+       y1="39"
+       y2="39"
+       id="line33" />
+    <path
+       d="m 1144.4167,49.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 1145,50.4013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path35" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1152.3333"
+       y="57.9659"
+       id="text37"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1165.3333"
+       y="57.9659"
+       id="text39"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1132"
+       x2="1361.3333"
+       y1="66.067902"
+       y2="66.067902"
+       id="line41" />
+    <path
+       d="m 1141.5,76.3025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path43" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="156"
+       x="1152.3333"
+       y="85.033897"
+       id="text45"
+       style="stroke-width:0.0200054">company: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,95.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path47" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="1152.3333"
+       y="104.1018"
+       id="text49"
+       style="stroke-width:0.0200054">first_name: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,114.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path51" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="163"
+       x="1152.3333"
+       y="123.1697"
+       id="text53"
+       style="stroke-width:0.0200054">last_name: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,133.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path55" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="1152.3333"
+       y="142.23759"
+       id="text57"
+       style="stroke-width:0.0200054">email_address: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,152.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path59" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="148"
+       x="1152.3333"
+       y="161.3055"
+       id="text61"
+       style="stroke-width:0.0200054">job_title: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,171.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path63" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="204"
+       x="1152.3333"
+       y="180.3734"
+       id="text65"
+       style="stroke-width:0.0200054">business_phone: VARCHAR(25)</text>
+    <path
+       d="m 1141.5,190.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path67" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="1152.3333"
+       y="199.44141"
+       id="text69"
+       style="stroke-width:0.0200054">home_phone: VARCHAR(22)</text>
+    <path
+       d="m 1141.5,209.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path71" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="1152.3333"
+       y="218.50929"
+       id="text73"
+       style="stroke-width:0.0200054">mobile_phone: VARCHAR(20)</text>
+    <path
+       d="m 1141.5,228.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path75" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="175"
+       x="1152.3333"
+       y="237.57719"
+       id="text77"
+       style="stroke-width:0.0200054">fax_number: VARCHAR(22)</text>
+    <path
+       d="m 1141.5,247.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path79" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="1152.3333"
+       y="256.64511"
+       id="text81"
+       style="stroke-width:0.0200054">address: LONGTEXT</text>
+    <path
+       d="m 1141.5,266.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path83" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="1152.3333"
+       y="275.71301"
+       id="text85"
+       style="stroke-width:0.0200054">city: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,286.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path87" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="1152.3333"
+       y="294.78091"
+       id="text89"
+       style="stroke-width:0.0200054">state_province: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,305.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path91" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="200"
+       x="1152.3333"
+       y="313.84891"
+       id="text93"
+       style="stroke-width:0.0200054">zip_postal_code: VARCHAR(10)</text>
+    <path
+       d="m 1141.5,324.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path95" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="196"
+       x="1152.3333"
+       y="332.91681"
+       id="text97"
+       style="stroke-width:0.0200054">country_region: VARCHAR(50)</text>
+    <path
+       d="m 1141.5,343.2533 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path99" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="147"
+       x="1152.3333"
+       y="351.98471"
+       id="text101"
+       style="stroke-width:0.0200054">web_page: LONGTEXT</text>
+    <path
+       d="m 1141.5,362.3213 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path103" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="1152.3333"
+       y="371.05261"
+       id="text105"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 1141.5,381.3892 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path107" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="167"
+       x="1152.3333"
+       y="390.12051"
+       id="text109"
+       style="stroke-width:0.0200054">attachments: LONGBLOB</text>
+  </g>
+  <g
+     id="elem_employees"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="40"
+       fill="#f1f1f1"
+       height="391.2225"
+       id="employees"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="231.3333"
+       x="1493"
+       y="7" />
+    <circle
+       cx="1568.4167"
+       cy="23"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse113"
+       r="11" />
+    <path
+       d="m 1569.2604,29.75 h -2.4531 V 19.5 h -3.1406 v -2.1406 h 8.7343 V 19.5 h -3.1406 z"
+       fill="#000000"
+       id="path115"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="72"
+       x="1588.9167"
+       y="28.431999"
+       id="text117"
+       style="stroke-width:0.0200054">employees</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1494"
+       x2="1723.3333"
+       y1="39"
+       y2="39"
+       id="line119" />
+    <path
+       d="m 1506.4167,49.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 1507,50.4013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path121" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1514.3333"
+       y="57.9659"
+       id="text123"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1527.3333"
+       y="57.9659"
+       id="text125"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1494"
+       x2="1723.3333"
+       y1="66.067902"
+       y2="66.067902"
+       id="line127" />
+    <path
+       d="m 1503.5,76.3025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path129" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="156"
+       x="1514.3333"
+       y="85.033897"
+       id="text131"
+       style="stroke-width:0.0200054">company: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,95.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path133" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="1514.3333"
+       y="104.1018"
+       id="text135"
+       style="stroke-width:0.0200054">first_name: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,114.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path137" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="163"
+       x="1514.3333"
+       y="123.1697"
+       id="text139"
+       style="stroke-width:0.0200054">last_name: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,133.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path141" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="1514.3333"
+       y="142.23759"
+       id="text143"
+       style="stroke-width:0.0200054">email_address: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,152.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path145" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="148"
+       x="1514.3333"
+       y="161.3055"
+       id="text147"
+       style="stroke-width:0.0200054">job_title: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,171.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path149" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="204"
+       x="1514.3333"
+       y="180.3734"
+       id="text151"
+       style="stroke-width:0.0200054">business_phone: VARCHAR(25)</text>
+    <path
+       d="m 1503.5,190.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path153" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="1514.3333"
+       y="199.44141"
+       id="text155"
+       style="stroke-width:0.0200054">home_phone: VARCHAR(22)</text>
+    <path
+       d="m 1503.5,209.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path157" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="1514.3333"
+       y="218.50929"
+       id="text159"
+       style="stroke-width:0.0200054">mobile_phone: VARCHAR(20)</text>
+    <path
+       d="m 1503.5,228.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path161" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="175"
+       x="1514.3333"
+       y="237.57719"
+       id="text163"
+       style="stroke-width:0.0200054">fax_number: VARCHAR(22)</text>
+    <path
+       d="m 1503.5,247.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path165" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="1514.3333"
+       y="256.64511"
+       id="text167"
+       style="stroke-width:0.0200054">address: LONGTEXT</text>
+    <path
+       d="m 1503.5,266.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path169" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="1514.3333"
+       y="275.71301"
+       id="text171"
+       style="stroke-width:0.0200054">city: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,286.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path173" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="1514.3333"
+       y="294.78091"
+       id="text175"
+       style="stroke-width:0.0200054">state_province: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,305.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path177" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="200"
+       x="1514.3333"
+       y="313.84891"
+       id="text179"
+       style="stroke-width:0.0200054">zip_postal_code: VARCHAR(10)</text>
+    <path
+       d="m 1503.5,324.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path181" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="196"
+       x="1514.3333"
+       y="332.91681"
+       id="text183"
+       style="stroke-width:0.0200054">country_region: VARCHAR(50)</text>
+    <path
+       d="m 1503.5,343.2533 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path185" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="147"
+       x="1514.3333"
+       y="351.98471"
+       id="text187"
+       style="stroke-width:0.0200054">web_page: LONGTEXT</text>
+    <path
+       d="m 1503.5,362.3213 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path189" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="1514.3333"
+       y="371.05261"
+       id="text191"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 1503.5,381.3892 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path193" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="167"
+       x="1514.3333"
+       y="390.12051"
+       id="text195"
+       style="stroke-width:0.0200054">attachments: LONGBLOB</text>
+  </g>
+  <g
+     id="elem_privileges"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="62"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="privileges"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="225.3333"
+       x="2035"
+       y="159.5" />
+    <circle
+       cx="2110.4167"
+       cy="175.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse199"
+       r="11" />
+    <path
+       d="m 2111.2604,182.25 h -2.4531 V 172 h -3.1406 v -2.1406 h 8.7343 V 172 h -3.1406 z"
+       fill="#000000"
+       id="path201"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="66"
+       x="2130.9167"
+       y="180.93201"
+       id="text203"
+       style="stroke-width:0.0200054">privileges</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="2036"
+       x2="2259.3333"
+       y1="191.5"
+       y2="191.5"
+       id="line205" />
+    <path
+       d="m 2048.4167,201.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path207" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="2056.3333"
+       y="210.4659"
+       id="text209"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="2069.3333"
+       y="210.4659"
+       id="text211"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="2036"
+       x2="2259.3333"
+       y1="218.5679"
+       y2="218.5679"
+       id="line213" />
+    <path
+       d="m 2045.5,228.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path215" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="198"
+       x="2056.3333"
+       y="237.53391"
+       id="text217"
+       style="stroke-width:0.0200054">privilege_name: VARCHAR(50)</text>
+  </g>
+  <g
+     id="elem_employee_privileges"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="68"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="employee_privileges"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="169.3333"
+       x="1992"
+       y="648.5" />
+    <circle
+       cx="2007.15"
+       cy="664.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse221"
+       r="11" />
+    <path
+       d="m 2007.9938,671.25 h -2.4532 V 661 H 2002.4 v -2.1406 h 8.7344 V 661 h -3.1406 z"
+       fill="#000000"
+       id="path223"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="137"
+       x="2021.1833"
+       y="669.93201"
+       id="text225"
+       style="stroke-width:0.0200054">employee_privileges</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1993"
+       x2="2160.3333"
+       y1="680.5"
+       y2="680.5"
+       id="line227" />
+    <path
+       d="m 2005.4167,690.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path229" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="142"
+       x="2013.3333"
+       y="699.46588"
+       id="text231"
+       style="stroke-width:0.0200054">employee_id: INT NN</text>
+    <path
+       d="m 2005.4167,709.8025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path233" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="136"
+       x="2013.3333"
+       y="718.53387"
+       id="text235"
+       style="stroke-width:0.0200054">privilege_id: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1993"
+       x2="2160.3333"
+       y1="726.6358"
+       y2="726.6358"
+       id="line237" />
+  </g>
+  <g
+     id="elem_customers"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="73"
+       fill="#f1f1f1"
+       height="391.2225"
+       id="customers"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="231.3333"
+       x="783"
+       y="7" />
+    <circle
+       cx="859.41669"
+       cy="23"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse241"
+       r="11" />
+    <path
+       d="m 860.2604,29.75 h -2.4531 V 19.5 h -3.1406 v -2.1406 h 8.7343 V 19.5 h -3.1406 z"
+       fill="#000000"
+       id="path243"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="70"
+       x="879.91669"
+       y="28.431999"
+       id="text245"
+       style="stroke-width:0.0200054">customers</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="784"
+       x2="1013.3333"
+       y1="39"
+       y2="39"
+       id="line247" />
+    <path
+       d="m 796.4167,49.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 L 790,56.2346 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 797,50.4013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path249" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="804.33331"
+       y="57.9659"
+       id="text251"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="817.33331"
+       y="57.9659"
+       id="text253"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="784"
+       x2="1013.3333"
+       y1="66.067902"
+       y2="66.067902"
+       id="line255" />
+    <path
+       d="m 793.5,76.3025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path257" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="156"
+       x="804.33331"
+       y="85.033897"
+       id="text259"
+       style="stroke-width:0.0200054">company: VARCHAR(50)</text>
+    <path
+       d="m 793.5,95.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path261" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="804.33331"
+       y="104.1018"
+       id="text263"
+       style="stroke-width:0.0200054">first_name: VARCHAR(50)</text>
+    <path
+       d="m 793.5,114.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path265" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="163"
+       x="804.33331"
+       y="123.1697"
+       id="text267"
+       style="stroke-width:0.0200054">last_name: VARCHAR(50)</text>
+    <path
+       d="m 793.5,133.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path269" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="804.33331"
+       y="142.23759"
+       id="text271"
+       style="stroke-width:0.0200054">email_address: VARCHAR(50)</text>
+    <path
+       d="m 793.5,152.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path273" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="148"
+       x="804.33331"
+       y="161.3055"
+       id="text275"
+       style="stroke-width:0.0200054">job_title: VARCHAR(50)</text>
+    <path
+       d="m 793.5,171.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path277" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="204"
+       x="804.33331"
+       y="180.3734"
+       id="text279"
+       style="stroke-width:0.0200054">business_phone: VARCHAR(25)</text>
+    <path
+       d="m 793.5,190.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path281" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="804.33331"
+       y="199.44141"
+       id="text283"
+       style="stroke-width:0.0200054">home_phone: VARCHAR(22)</text>
+    <path
+       d="m 793.5,209.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path285" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="804.33331"
+       y="218.50929"
+       id="text287"
+       style="stroke-width:0.0200054">mobile_phone: VARCHAR(20)</text>
+    <path
+       d="m 793.5,228.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path289" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="175"
+       x="804.33331"
+       y="237.57719"
+       id="text291"
+       style="stroke-width:0.0200054">fax_number: VARCHAR(22)</text>
+    <path
+       d="m 793.5,247.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path293" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="804.33331"
+       y="256.64511"
+       id="text295"
+       style="stroke-width:0.0200054">address: LONGTEXT</text>
+    <path
+       d="m 793.5,266.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path297" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="804.33331"
+       y="275.71301"
+       id="text299"
+       style="stroke-width:0.0200054">city: VARCHAR(50)</text>
+    <path
+       d="m 793.5,286.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path301" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="804.33331"
+       y="294.78091"
+       id="text303"
+       style="stroke-width:0.0200054">state_province: VARCHAR(50)</text>
+    <path
+       d="m 793.5,305.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path305" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="200"
+       x="804.33331"
+       y="313.84891"
+       id="text307"
+       style="stroke-width:0.0200054">zip_postal_code: VARCHAR(10)</text>
+    <path
+       d="m 793.5,324.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path309" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="196"
+       x="804.33331"
+       y="332.91681"
+       id="text311"
+       style="stroke-width:0.0200054">country_region: VARCHAR(50)</text>
+    <path
+       d="m 793.5,343.2533 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path313" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="147"
+       x="804.33331"
+       y="351.98471"
+       id="text315"
+       style="stroke-width:0.0200054">web_page: LONGTEXT</text>
+    <path
+       d="m 793.5,362.3213 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path317" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="804.33331"
+       y="371.05261"
+       id="text319"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 793.5,381.3892 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path321" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="167"
+       x="804.33331"
+       y="390.12051"
+       id="text323"
+       style="stroke-width:0.0200054">attachments: LONGBLOB</text>
+  </g>
+  <g
+     id="elem_orders_status"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="95"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="orders_status"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="207.3333"
+       x="7"
+       y="159.5" />
+    <circle
+       cx="60.916698"
+       cy="175.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse327"
+       r="11" />
+    <path
+       d="M 61.7604,182.25 H 59.3073 V 172 h -3.1406 v -2.1406 H 64.901 V 172 h -3.1406 z"
+       fill="#000000"
+       id="path329"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="91"
+       x="81.416702"
+       y="180.93201"
+       id="text331"
+       style="stroke-width:0.0200054">orders_status</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="8"
+       x2="213.3333"
+       y1="191.5"
+       y2="191.5"
+       id="line333" />
+    <path
+       d="m 20.4167,201.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 L 14,208.7346 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 21,202.9013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path335" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="28.3333"
+       y="210.4659"
+       id="text337"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="41.333302"
+       y="210.4659"
+       id="text339"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="8"
+       x2="213.3333"
+       y1="218.5679"
+       y2="218.5679"
+       id="line341" />
+    <path
+       d="m 17.5,228.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path343" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="180"
+       x="28.3333"
+       y="237.53391"
+       id="text345"
+       style="stroke-width:0.0200054">status_name: VARCHAR(50)</text>
+  </g>
+  <g
+     id="elem_orders_tax_status"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="101"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="orders_tax_status"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="233.3333"
+       x="249"
+       y="159.5" />
+    <circle
+       cx="302.91669"
+       cy="175.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse349"
+       r="11" />
+    <path
+       d="m 303.7604,182.25 h -2.4531 V 172 h -3.1406 v -2.1406 h 8.7343 V 172 h -3.1406 z"
+       fill="#000000"
+       id="path351"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="117"
+       x="323.41669"
+       y="180.93201"
+       id="text353"
+       style="stroke-width:0.0200054">orders_tax_status</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="250"
+       x2="481.33331"
+       y1="191.5"
+       y2="191.5"
+       id="line355" />
+    <path
+       d="m 262.4167,201.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 263,202.9013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path357" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="270.33331"
+       y="210.4659"
+       id="text359"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="283.33331"
+       y="210.4659"
+       id="text361"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="250"
+       x2="481.33331"
+       y1="218.5679"
+       y2="218.5679"
+       id="line363" />
+    <path
+       d="m 259.5,228.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path365" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="206"
+       x="270.33331"
+       y="237.53391"
+       id="text367"
+       style="stroke-width:0.0200054">tax_status_name: VARCHAR(50)</text>
+  </g>
+  <g
+     id="elem_shippers"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="107"
+       fill="#f1f1f1"
+       height="391.2225"
+       id="shippers"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="231.3333"
+       x="517"
+       y="7" />
+    <circle
+       cx="598.91669"
+       cy="23"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse371"
+       r="11" />
+    <path
+       d="m 599.7604,29.75 h -2.4531 V 19.5 h -3.1406 v -2.1406 h 8.7343 V 19.5 h -3.1406 z"
+       fill="#000000"
+       id="path373"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="59"
+       x="619.41669"
+       y="28.431999"
+       id="text375"
+       style="stroke-width:0.0200054">shippers</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="518"
+       x2="747.33331"
+       y1="39"
+       y2="39"
+       id="line377" />
+    <path
+       d="m 530.4167,49.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 L 524,56.2346 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 531,50.4013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path379" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="538.33331"
+       y="57.9659"
+       id="text381"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="551.33331"
+       y="57.9659"
+       id="text383"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="518"
+       x2="747.33331"
+       y1="66.067902"
+       y2="66.067902"
+       id="line385" />
+    <path
+       d="m 527.5,76.3025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path387" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="156"
+       x="538.33331"
+       y="85.033897"
+       id="text389"
+       style="stroke-width:0.0200054">company: VARCHAR(50)</text>
+    <path
+       d="m 527.5,95.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path391" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="166"
+       x="538.33331"
+       y="104.1018"
+       id="text393"
+       style="stroke-width:0.0200054">first_name: VARCHAR(50)</text>
+    <path
+       d="m 527.5,114.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path395" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="163"
+       x="538.33331"
+       y="123.1697"
+       id="text397"
+       style="stroke-width:0.0200054">last_name: VARCHAR(50)</text>
+    <path
+       d="m 527.5,133.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path399" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="538.33331"
+       y="142.23759"
+       id="text401"
+       style="stroke-width:0.0200054">email_address: VARCHAR(50)</text>
+    <path
+       d="m 527.5,152.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path403" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="148"
+       x="538.33331"
+       y="161.3055"
+       id="text405"
+       style="stroke-width:0.0200054">job_title: VARCHAR(50)</text>
+    <path
+       d="m 527.5,171.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path407" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="204"
+       x="538.33331"
+       y="180.3734"
+       id="text409"
+       style="stroke-width:0.0200054">business_phone: VARCHAR(25)</text>
+    <path
+       d="m 527.5,190.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path411" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="538.33331"
+       y="199.44141"
+       id="text413"
+       style="stroke-width:0.0200054">home_phone: VARCHAR(22)</text>
+    <path
+       d="m 527.5,209.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path415" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="538.33331"
+       y="218.50929"
+       id="text417"
+       style="stroke-width:0.0200054">mobile_phone: VARCHAR(20)</text>
+    <path
+       d="m 527.5,228.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path419" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="175"
+       x="538.33331"
+       y="237.57719"
+       id="text421"
+       style="stroke-width:0.0200054">fax_number: VARCHAR(22)</text>
+    <path
+       d="m 527.5,247.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path423" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="538.33331"
+       y="256.64511"
+       id="text425"
+       style="stroke-width:0.0200054">address: LONGTEXT</text>
+    <path
+       d="m 527.5,266.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path427" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="538.33331"
+       y="275.71301"
+       id="text429"
+       style="stroke-width:0.0200054">city: VARCHAR(50)</text>
+    <path
+       d="m 527.5,286.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path431" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="538.33331"
+       y="294.78091"
+       id="text433"
+       style="stroke-width:0.0200054">state_province: VARCHAR(50)</text>
+    <path
+       d="m 527.5,305.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path435" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="200"
+       x="538.33331"
+       y="313.84891"
+       id="text437"
+       style="stroke-width:0.0200054">zip_postal_code: VARCHAR(10)</text>
+    <path
+       d="m 527.5,324.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path439" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="196"
+       x="538.33331"
+       y="332.91681"
+       id="text441"
+       style="stroke-width:0.0200054">country_region: VARCHAR(50)</text>
+    <path
+       d="m 527.5,343.2533 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path443" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="147"
+       x="538.33331"
+       y="351.98471"
+       id="text445"
+       style="stroke-width:0.0200054">web_page: LONGTEXT</text>
+    <path
+       d="m 527.5,362.3213 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path447" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="538.33331"
+       y="371.05261"
+       id="text449"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 527.5,381.3892 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path451" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="167"
+       x="538.33331"
+       y="390.12051"
+       id="text453"
+       style="stroke-width:0.0200054">attachments: LONGBLOB</text>
+  </g>
+  <g
+     id="elem_orders"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="129"
+       fill="#f1f1f1"
+       height="429.35831"
+       id="orders"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="262.33331"
+       x="495.5"
+       y="477" />
+    <circle
+       cx="600.41669"
+       cy="493"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse457"
+       r="11" />
+    <path
+       d="m 601.2604,499.75 h -2.4531 V 489.5 h -3.1406 v -2.1406 h 8.7343 V 489.5 h -3.1406 z"
+       fill="#000000"
+       id="path459"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="44"
+       x="620.91669"
+       y="498.43201"
+       id="text461"
+       style="stroke-width:0.0200054">orders</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="496.5"
+       x2="756.83331"
+       y1="509"
+       y2="509"
+       id="line463" />
+    <path
+       d="m 508.9167,519.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path465" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="516.83331"
+       y="527.96588"
+       id="text467"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="529.83331"
+       y="527.96588"
+       id="text469"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="496.5"
+       x2="756.83331"
+       y1="536.06787"
+       y2="536.06787"
+       id="line471" />
+    <path
+       d="m 508.9167,546.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path473" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="516.83331"
+       y="555.03387"
+       id="text475"
+       style="stroke-width:0.0200054">employee_id: INT</text>
+    <path
+       d="m 508.9167,565.3704 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path477" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="516.83331"
+       y="574.10181"
+       id="text479"
+       style="stroke-width:0.0200054">customer_id: INT</text>
+    <path
+       d="m 506,584.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path481" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="150"
+       x="516.83331"
+       y="593.16968"
+       id="text483"
+       style="stroke-width:0.0200054">order_date: DATETIME</text>
+    <path
+       d="m 506,603.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path485" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="168"
+       x="516.83331"
+       y="612.23761"
+       id="text487"
+       style="stroke-width:0.0200054">shipped_date: DATETIME</text>
+    <path
+       d="m 508.9167,622.5742 c -1.61,0 -2.9167,1.3066 -2.9167,2.9166 0,0.1867 0,0.3734 0.035,0.5484 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9166 -2.9166,-2.9166 m 0.5833,1.1666 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path489" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="516.83331"
+       y="631.30548"
+       id="text491"
+       style="stroke-width:0.0200054">shipper_id: INT</text>
+    <path
+       d="m 506,641.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path493" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="168"
+       x="516.83331"
+       y="650.37341"
+       id="text495"
+       style="stroke-width:0.0200054">ship_name: VARCHAR(50)</text>
+    <path
+       d="m 506,660.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path497" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="168"
+       x="516.83331"
+       y="669.44141"
+       id="text499"
+       style="stroke-width:0.0200054">ship_address: LONGTEXT</text>
+    <path
+       d="m 506,679.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path501" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="153"
+       x="516.83331"
+       y="688.50928"
+       id="text503"
+       style="stroke-width:0.0200054">ship_city: VARCHAR(50)</text>
+    <path
+       d="m 506,698.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path505" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="227"
+       x="516.83331"
+       y="707.57721"
+       id="text507"
+       style="stroke-width:0.0200054">ship_state_province: VARCHAR(50)</text>
+    <path
+       d="m 506,717.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path509" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="235"
+       x="516.83331"
+       y="726.64508"
+       id="text511"
+       style="stroke-width:0.0200054">ship_zip_postal_code: VARCHAR(10)</text>
+    <path
+       d="m 506,736.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path513" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="231"
+       x="516.83331"
+       y="745.71301"
+       id="text515"
+       style="stroke-width:0.0200054">ship_country_region: VARCHAR(50)</text>
+    <path
+       d="m 506,756.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path517" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="516.83331"
+       y="764.78088"
+       id="text519"
+       style="stroke-width:0.0200054">shipping_fee: DECIMAL(19,4)</text>
+    <path
+       d="m 506,775.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path521" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="140"
+       x="516.83331"
+       y="783.84888"
+       id="text523"
+       style="stroke-width:0.0200054">taxes: DECIMAL(19,4)</text>
+    <path
+       d="m 506,794.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path525" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="189"
+       x="516.83331"
+       y="802.91681"
+       id="text527"
+       style="stroke-width:0.0200054">payment_type: VARCHAR(50)</text>
+    <path
+       d="m 506,813.2533 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path529" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="143"
+       x="516.83331"
+       y="821.98468"
+       id="text531"
+       style="stroke-width:0.0200054">paid_date: DATETIME</text>
+    <path
+       d="m 506,832.3213 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path533" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="516.83331"
+       y="841.05261"
+       id="text535"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 508.9167,851.3892 c -1.61,0 -2.9167,1.3066 -2.9167,2.9166 0,0.1867 0,0.3734 0.035,0.5484 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9166 -2.9166,-2.9166 m 0.5833,1.1666 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path537" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="85"
+       x="516.83331"
+       y="860.12048"
+       id="text539"
+       style="stroke-width:0.0200054">tax_rate: INT</text>
+    <path
+       d="m 508.9167,870.4571 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path541" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="150"
+       x="516.83331"
+       y="879.18842"
+       id="text543"
+       style="stroke-width:0.0200054">tax_status_id: TINYINT</text>
+    <path
+       d="m 508.9167,889.525 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path545" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="124"
+       x="516.83331"
+       y="898.25641"
+       id="text547"
+       style="stroke-width:0.0200054">status_id: TINYINT</text>
+  </g>
+  <g
+     id="elem_invoices"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="153"
+       fill="#f1f1f1"
+       height="181.4754"
+       id="invoices"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="216.3333"
+       x="518.5"
+       y="1014" />
+    <circle
+       cx="595.41669"
+       cy="1030"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse551"
+       r="11" />
+    <path
+       d="m 596.2604,1036.75 h -2.4531 v -10.25 h -3.1406 v -2.1406 h 8.7343 v 2.1406 h -3.1406 z"
+       fill="#000000"
+       id="path553"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="54"
+       x="615.91669"
+       y="1035.432"
+       id="text555"
+       style="stroke-width:0.0200054">invoices</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="519.5"
+       x2="733.83331"
+       y1="1046"
+       y2="1046"
+       id="line557" />
+    <path
+       d="m 531.9167,1056.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path559" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="539.83331"
+       y="1064.9659"
+       id="text561"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="552.83331"
+       y="1064.9659"
+       id="text563"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="519.5"
+       x2="733.83331"
+       y1="1073.0679"
+       y2="1073.0679"
+       id="line565" />
+    <path
+       d="m 531.9167,1083.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path567" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="88"
+       x="539.83331"
+       y="1092.0339"
+       id="text569"
+       style="stroke-width:0.0200054">order_id: INT</text>
+    <path
+       d="m 529,1102.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path571" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="160"
+       x="539.83331"
+       y="1111.1018"
+       id="text573"
+       style="stroke-width:0.0200054">invoice_date: DATETIME</text>
+    <path
+       d="m 529,1121.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path575" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="139"
+       x="539.83331"
+       y="1130.1697"
+       id="text577"
+       style="stroke-width:0.0200054">due_date: DATETIME</text>
+    <path
+       d="m 529,1140.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path579" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="125"
+       x="539.83331"
+       y="1149.2375"
+       id="text581"
+       style="stroke-width:0.0200054">tax: DECIMAL(19,4)</text>
+    <path
+       d="m 529,1159.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path583" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="165"
+       x="539.83331"
+       y="1168.3055"
+       id="text585"
+       style="stroke-width:0.0200054">shipping: DECIMAL(19,4)</text>
+    <path
+       d="m 529,1178.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path587" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="189"
+       x="539.83331"
+       y="1187.3734"
+       id="text589"
+       style="stroke-width:0.0200054">amount_due: DECIMAL(19,4)</text>
+  </g>
+  <g
+     id="elem_products"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="164"
+       fill="#f1f1f1"
+       height="276.815"
+       id="products"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="243.3333"
+       x="1061"
+       y="553" />
+    <circle
+       cx="1148.4167"
+       cy="569"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse593"
+       r="11" />
+    <path
+       d="m 1149.2604,575.75 h -2.4531 V 565.5 h -3.1406 v -2.1406 h 8.7343 V 565.5 h -3.1406 z"
+       fill="#000000"
+       id="path595"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="60"
+       x="1168.9167"
+       y="574.43201"
+       id="text597"
+       style="stroke-width:0.0200054">products</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1062"
+       x2="1303.3333"
+       y1="585"
+       y2="585"
+       id="line599" />
+    <path
+       d="m 1074.4167,595.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path601" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1082.3333"
+       y="603.96588"
+       id="text603"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1095.3333"
+       y="603.96588"
+       id="text605"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1062"
+       x2="1303.3333"
+       y1="612.06787"
+       y2="612.06787"
+       id="line607" />
+    <path
+       d="m 1074.4167,622.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path609" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="1082.3333"
+       y="631.03387"
+       id="text611"
+       style="stroke-width:0.0200054">supplier_ids: INT</text>
+    <path
+       d="m 1071.5,641.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path613" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="186"
+       x="1082.3333"
+       y="650.10181"
+       id="text615"
+       style="stroke-width:0.0200054">product_code: VARCHAR(25)</text>
+    <path
+       d="m 1071.5,660.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path617" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="176"
+       x="1082.3333"
+       y="669.16968"
+       id="text619"
+       style="stroke-width:0.0200054">product_name: LONGTEXT</text>
+    <path
+       d="m 1071.5,679.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path621" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="155"
+       x="1082.3333"
+       y="688.23761"
+       id="text623"
+       style="stroke-width:0.0200054">description: LONGTEXT</text>
+    <path
+       d="m 1071.5,698.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path625" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="199"
+       x="1082.3333"
+       y="707.30548"
+       id="text627"
+       style="stroke-width:0.0200054">standard_cost: DECIMAL(19,4)</text>
+    <path
+       d="m 1071.5,717.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path629" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="165"
+       x="1082.3333"
+       y="726.37341"
+       id="text631"
+       style="stroke-width:0.0200054">list_price: DECIMAL(19,4)</text>
+    <path
+       d="m 1074.4167,736.71 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 L 1068,743.71 v 2.3333 h 3.5 V 743.71 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path633" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="110"
+       x="1082.3333"
+       y="745.44141"
+       id="text635"
+       style="stroke-width:0.0200054">target_level: INT</text>
+    <path
+       d="m 1074.4167,755.7779 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path637" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="120"
+       x="1082.3333"
+       y="764.50928"
+       id="text639"
+       style="stroke-width:0.0200054">reorder_level: INT</text>
+    <path
+       d="m 1074.4167,774.8458 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path641" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="216"
+       x="1082.3333"
+       y="783.57721"
+       id="text643"
+       style="stroke-width:0.0200054">minimum_reorder_quantity: INT</text>
+    <path
+       d="m 1074.4167,793.9138 c -1.61,0 -2.9167,1.3066 -2.9167,2.9166 0,0.1867 0,0.3734 0.035,0.5484 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9166 -2.9166,-2.9166 m 0.5833,1.1666 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path645" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="90"
+       x="1082.3333"
+       y="802.64508"
+       id="text647"
+       style="stroke-width:0.0200054">category: INT</text>
+    <path
+       d="m 1071.5,812.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path649" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="167"
+       x="1082.3333"
+       y="821.71301"
+       id="text651"
+       style="stroke-width:0.0200054">attachments: LONGBLOB</text>
+  </g>
+  <g
+     id="elem_order_details"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="180"
+       fill="#f1f1f1"
+       height="238.6792"
+       id="order_details"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="214.3333"
+       x="786.5"
+       y="985" />
+    <circle
+       cx="845.41669"
+       cy="1001"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse655"
+       r="11" />
+    <path
+       d="m 846.2604,1007.75 h -2.4531 V 997.5 h -3.1406 v -2.1406 h 8.7343 V 997.5 h -3.1406 z"
+       fill="#000000"
+       id="path657"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="88"
+       x="865.91669"
+       y="1006.432"
+       id="text659"
+       style="stroke-width:0.0200054">order_details</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="787.5"
+       x2="999.83331"
+       y1="1017"
+       y2="1017"
+       id="line661" />
+    <path
+       d="m 799.9167,1027.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path663" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="807.83331"
+       y="1035.9659"
+       id="text665"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="820.83331"
+       y="1035.9659"
+       id="text667"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="787.5"
+       x2="999.83331"
+       y1="1044.0679"
+       y2="1044.0679"
+       id="line669" />
+    <path
+       d="m 799.9167,1054.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path671" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="807.83331"
+       y="1063.0339"
+       id="text673"
+       style="stroke-width:0.0200054">order_id: INT NN</text>
+    <path
+       d="m 799.9167,1073.3704 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path675" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="130"
+       x="807.83331"
+       y="1082.1018"
+       id="text677"
+       style="stroke-width:0.0200054">product_id: INT NN</text>
+    <path
+       d="m 797,1092.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path679" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="187"
+       x="807.83331"
+       y="1101.1697"
+       id="text681"
+       style="stroke-width:0.0200054">quantity: DECIMAL(18,4) NN</text>
+    <path
+       d="m 797,1111.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path683" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="172"
+       x="807.83331"
+       y="1120.2375"
+       id="text685"
+       style="stroke-width:0.0200054">unit_price: DECIMAL(19,4)</text>
+    <path
+       d="m 797,1130.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path687" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="121"
+       x="807.83331"
+       y="1139.3055"
+       id="text689"
+       style="stroke-width:0.0200054">discount: DOUBLE</text>
+    <path
+       d="m 797,1149.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path691" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="92"
+       x="807.83331"
+       y="1158.3734"
+       id="text693"
+       style="stroke-width:0.0200054">status_id: INT</text>
+    <path
+       d="m 797,1168.71 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path695" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="174"
+       x="807.83331"
+       y="1177.4414"
+       id="text697"
+       style="stroke-width:0.0200054">date_allocated: DATETIME</text>
+    <path
+       d="m 799.9167,1187.7779 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path699" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="157"
+       x="807.83331"
+       y="1196.5093"
+       id="text701"
+       style="stroke-width:0.0200054">purchase_order_id: INT</text>
+    <path
+       d="m 799.9167,1206.8458 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path703" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="807.83331"
+       y="1215.5771"
+       id="text705"
+       style="stroke-width:0.0200054">inventory_id: INT</text>
+  </g>
+  <g
+     id="elem_order_details_status"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="194"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="order_details_status"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="233.3333"
+       x="793"
+       y="648.5" />
+    <circle
+       cx="837.91669"
+       cy="664.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse709"
+       r="11" />
+    <path
+       d="m 838.7604,671.25 h -2.4531 V 661 h -3.1406 v -2.1406 h 8.7343 V 661 h -3.1406 z"
+       fill="#000000"
+       id="path711"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="135"
+       x="858.41669"
+       y="669.93201"
+       id="text713"
+       style="stroke-width:0.0200054">order_details_status</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="794"
+       x2="1025.3333"
+       y1="680.5"
+       y2="680.5"
+       id="line715" />
+    <path
+       d="m 806.4167,690.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 807,691.9013 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path717" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="814.33331"
+       y="699.46588"
+       id="text719"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="827.33331"
+       y="699.46588"
+       id="text721"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="794"
+       x2="1025.3333"
+       y1="707.56787"
+       y2="707.56787"
+       id="line723" />
+    <path
+       d="m 803.5,717.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path725" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="206"
+       x="814.33331"
+       y="726.53387"
+       id="text727"
+       style="stroke-width:0.0200054">status_name: VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_purchase_orders"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="200"
+       fill="#f1f1f1"
+       height="353.0867"
+       id="purchase_orders"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="249.3333"
+       x="1484"
+       y="515" />
+    <circle
+       cx="1547.9167"
+       cy="531"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse731"
+       r="11" />
+    <path
+       d="m 1548.7604,537.75 h -2.4531 V 527.5 h -3.1406 v -2.1406 h 8.7343 V 527.5 h -3.1406 z"
+       fill="#000000"
+       id="path733"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="113"
+       x="1568.4167"
+       y="536.43201"
+       id="text735"
+       style="stroke-width:0.0200054">purchase_orders</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1485"
+       x2="1732.3333"
+       y1="547"
+       y2="547"
+       id="line737" />
+    <path
+       d="m 1497.4167,557.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path739" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1505.3333"
+       y="565.96588"
+       id="text741"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1518.3333"
+       y="565.96588"
+       id="text743"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1485"
+       x2="1732.3333"
+       y1="574.06787"
+       y2="574.06787"
+       id="line745" />
+    <path
+       d="m 1497.4167,584.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path747" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="107"
+       x="1505.3333"
+       y="593.03387"
+       id="text749"
+       style="stroke-width:0.0200054">supplier_id: INT</text>
+    <path
+       d="m 1497.4167,603.3704 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path751" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="105"
+       x="1505.3333"
+       y="612.10181"
+       id="text753"
+       style="stroke-width:0.0200054">created_by: INT</text>
+    <path
+       d="m 1497.4167,622.4383 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 1498,623.605 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path755" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="123"
+       x="1505.3333"
+       y="631.16968"
+       id="text757"
+       style="stroke-width:0.0200054">submitted_by: INT</text>
+    <path
+       d="m 1494.5,641.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path759" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="182"
+       x="1505.3333"
+       y="650.23761"
+       id="text761"
+       style="stroke-width:0.0200054">submitted_date: DATETIME</text>
+    <path
+       d="m 1494.5,660.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path763" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="168"
+       x="1505.3333"
+       y="669.30548"
+       id="text765"
+       style="stroke-width:0.0200054">creation_date: DATETIME</text>
+    <path
+       d="m 1494.5,679.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path767" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="177"
+       x="1505.3333"
+       y="688.37341"
+       id="text769"
+       style="stroke-width:0.0200054">approved_date: DATETIME</text>
+    <path
+       d="m 1497.4167,698.71 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 L 1491,705.71 v 2.3333 h 3.5 V 705.71 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path771" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="1505.3333"
+       y="707.44141"
+       id="text773"
+       style="stroke-width:0.0200054">approved_by: INT</text>
+    <path
+       d="m 1494.5,717.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path775" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="142"
+       x="1505.3333"
+       y="726.50928"
+       id="text777"
+       style="stroke-width:0.0200054">ship_date: DATETIME</text>
+    <path
+       d="m 1494.5,736.8458 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path779" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="192"
+       x="1505.3333"
+       y="745.57721"
+       id="text781"
+       style="stroke-width:0.0200054">shipping_fee: DECIMAL(19,4)</text>
+    <path
+       d="m 1494.5,755.9138 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path783" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="140"
+       x="1505.3333"
+       y="764.64508"
+       id="text785"
+       style="stroke-width:0.0200054">taxes: DECIMAL(19,4)</text>
+    <path
+       d="m 1494.5,774.9817 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path787" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="172"
+       x="1505.3333"
+       y="783.71301"
+       id="text789"
+       style="stroke-width:0.0200054">payment_date: DATETIME</text>
+    <path
+       d="m 1494.5,794.0496 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path791" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="222"
+       x="1505.3333"
+       y="802.78088"
+       id="text793"
+       style="stroke-width:0.0200054">payment_amount: DECIMAL(19,4)</text>
+    <path
+       d="m 1494.5,813.1175 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path795" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="212"
+       x="1505.3333"
+       y="821.84888"
+       id="text797"
+       style="stroke-width:0.0200054">payment_method: VARCHAR(50)</text>
+    <path
+       d="m 1494.5,832.1854 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path799" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="1505.3333"
+       y="840.91681"
+       id="text801"
+       style="stroke-width:0.0200054">notes: LONGTEXT</text>
+    <path
+       d="m 1497.4167,851.2533 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 M 1498,852.42 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path803" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="92"
+       x="1505.3333"
+       y="859.98468"
+       id="text805"
+       style="stroke-width:0.0200054">status_id: INT</text>
+  </g>
+  <g
+     id="elem_inventory_transaction_types"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="220"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="inventory_transaction_types"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="221.3333"
+       x="1036"
+       y="1061.5" />
+    <circle
+       cx="1052.05"
+       cy="1077.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse809"
+       r="11" />
+    <path
+       d="m 1052.8938,1084.25 h -2.4532 V 1074 H 1047.3 v -2.1406 h 8.7344 V 1074 h -3.1406 z"
+       fill="#000000"
+       id="path811"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="187"
+       x="1066.2833"
+       y="1082.932"
+       id="text813"
+       style="stroke-width:0.0200054">inventory_transaction_types</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1037"
+       x2="1256.3333"
+       y1="1093.5"
+       y2="1093.5"
+       id="line815" />
+    <path
+       d="m 1049.4167,1103.7346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path817" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1057.3333"
+       y="1112.4659"
+       id="text819"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1070.3333"
+       y="1112.4659"
+       id="text821"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1037"
+       x2="1256.3333"
+       y1="1120.5679"
+       y2="1120.5679"
+       id="line823" />
+    <path
+       d="m 1046.5,1130.8025 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path825" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="194"
+       x="1057.3333"
+       y="1139.5339"
+       id="text827"
+       style="stroke-width:0.0200054">type_name: VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_inventory_transactions"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="226"
+       fill="#f1f1f1"
+       height="219.6113"
+       id="inventory_transactions"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="282.33331"
+       x="1005.5"
+       y="1303" />
+    <circle
+       cx="1066.4167"
+       cy="1319"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse831"
+       r="11" />
+    <path
+       d="m 1067.2604,1325.75 h -2.4531 v -10.25 h -3.1406 v -2.1406 h 8.7343 v 2.1406 h -3.1406 z"
+       fill="#000000"
+       id="path833"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="152"
+       x="1086.9167"
+       y="1324.432"
+       id="text835"
+       style="stroke-width:0.0200054">inventory_transactions</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1006.5"
+       x2="1286.8333"
+       y1="1335"
+       y2="1335"
+       id="line837" />
+    <path
+       d="m 1018.9167,1345.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path839" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1026.8333"
+       y="1353.9659"
+       id="text841"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1039.8333"
+       y="1353.9659"
+       id="text843"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1006.5"
+       x2="1286.8333"
+       y1="1362.0679"
+       y2="1362.0679"
+       id="line845" />
+    <path
+       d="m 1018.9167,1372.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path847" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="201"
+       x="1026.8333"
+       y="1381.0339"
+       id="text849"
+       style="stroke-width:0.0200054">transaction_type: TINYINT NN</text>
+    <path
+       d="m 1016,1391.3704 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path851" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="246"
+       x="1026.8333"
+       y="1400.1018"
+       id="text853"
+       style="stroke-width:0.0200054">transaction_created_date: DATETIME</text>
+    <path
+       d="m 1016,1410.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path855" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="255"
+       x="1026.8333"
+       y="1419.1697"
+       id="text857"
+       style="stroke-width:0.0200054">transaction_modified_date: DATETIME</text>
+    <path
+       d="m 1018.9167,1429.5063 c -1.61,0 -2.9167,1.3066 -2.9167,2.9166 0,0.1867 0,0.3734 0.035,0.5484 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9166 -2.9166,-2.9166 m 0.5833,1.1666 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path859" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="130"
+       x="1026.8333"
+       y="1438.2375"
+       id="text861"
+       style="stroke-width:0.0200054">product_id: INT NN</text>
+    <path
+       d="m 1016,1448.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path863" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="1026.8333"
+       y="1457.3055"
+       id="text865"
+       style="stroke-width:0.0200054">quantity: INT NN</text>
+    <path
+       d="m 1018.9167,1467.6421 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path867" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="157"
+       x="1026.8333"
+       y="1476.3734"
+       id="text869"
+       style="stroke-width:0.0200054">purchase_order_id: INT</text>
+    <path
+       d="m 1018.9167,1486.71 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path871" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="157"
+       x="1026.8333"
+       y="1495.4414"
+       id="text873"
+       style="stroke-width:0.0200054">customer_order_id: INT</text>
+    <path
+       d="m 1016,1505.7779 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path875" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="173"
+       x="1026.8333"
+       y="1514.5093"
+       id="text877"
+       style="stroke-width:0.0200054">comments: VARCHAR(255)</text>
+  </g>
+  <g
+     id="elem_purchase_order_details"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <rect
+       codeLine="239"
+       fill="#f1f1f1"
+       height="200.5433"
+       id="purchase_order_details"
+       rx="0.35361791"
+       ry="0.35358512"
+       style="stroke:#181818;stroke-width:0.0707203"
+       width="251.3333"
+       x="1292"
+       y="1004" />
+    <circle
+       cx="1335.05"
+       cy="1020"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.141441"
+       id="ellipse881"
+       r="11" />
+    <path
+       d="m 1335.8938,1026.75 h -2.4532 V 1016.5 H 1330.3 v -2.1406 h 8.7344 v 2.1406 h -3.1406 z"
+       fill="#000000"
+       id="path883"
+       style="stroke-width:0.0200054" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="157"
+       x="1355.2833"
+       y="1025.432"
+       id="text885"
+       style="stroke-width:0.0200054">purchase_order_details</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0707203"
+       x1="1293"
+       x2="1542.3333"
+       y1="1036"
+       y2="1036"
+       id="line887" />
+    <path
+       d="m 1305.4167,1046.2346 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#b8861b"
+       style="stroke-width:0"
+       id="path889" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="13"
+       x="1313.3333"
+       y="1054.9659"
+       id="text891"
+       style="stroke-width:0.0200054">id</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58"
+       x="1326.3333"
+       y="1054.9659"
+       id="text893"
+       style="stroke-width:0.0200054">: INT NN</text>
+    <line
+       style="stroke:#181818;stroke-width:0.141441"
+       x1="1293"
+       x2="1542.3333"
+       y1="1063.0679"
+       y2="1063.0679"
+       id="line895" />
+    <path
+       d="m 1305.4167,1073.3025 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path897" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="183"
+       x="1313.3333"
+       y="1082.0339"
+       id="text899"
+       style="stroke-width:0.0200054">purchase_order_id: INT NN</text>
+    <path
+       d="m 1305.4167,1092.3704 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1867 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3334 h 3.5 v -2.3334 h 2.3333 v -1.1666 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3067 2.9166,-2.9167 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1667 0,0.6416 -0.525,1.1666 -1.1667,1.1666 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1666 0,-0.6417 0.525,-1.1667 1.1667,-1.1667"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path901" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="130"
+       x="1313.3333"
+       y="1101.1018"
+       id="text903"
+       style="stroke-width:0.0200054">product_id: INT NN</text>
+    <path
+       d="m 1302.5,1111.4383 c -1.9367,0 -3.5,1.5634 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9366 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path905" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="1313.3333"
+       y="1120.1697"
+       id="text907"
+       style="stroke-width:0.0200054">quantity: INT NN</text>
+    <path
+       d="m 1302.5,1130.5063 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path909" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="165"
+       x="1313.3333"
+       y="1139.2375"
+       id="text911"
+       style="stroke-width:0.0200054">unit_cost: DECIMAL(19,4)</text>
+    <path
+       d="m 1302.5,1149.5742 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9366 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5634 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path913" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="1313.3333"
+       y="1158.3055"
+       id="text915"
+       style="stroke-width:0.0200054">date_received: DATETIME</text>
+    <path
+       d="m 1302.5,1168.6421 c -1.9367,0 -3.5,1.5633 -3.5,3.5 0,1.9367 1.5633,3.5 3.5,3.5 1.9367,0 3.5,-1.5633 3.5,-3.5 0,-1.9367 -1.5633,-3.5 -3.5,-3.5"
+       fill="#efefef"
+       style="stroke-width:0"
+       id="path917" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="224"
+       x="1313.3333"
+       y="1177.3734"
+       id="text919"
+       style="stroke-width:0.0200054">posted_to_inventory: TINYINT NN</text>
+    <path
+       d="m 1305.4167,1187.71 c -1.61,0 -2.9167,1.3067 -2.9167,2.9167 0,0.1866 0,0.3733 0.035,0.5483 l -3.535,3.535 v 2.3333 h 3.5 v -2.3333 h 2.3333 v -1.1667 l 0.035,-0.035 c 0.175,0.035 0.3617,0.035 0.5484,0.035 1.61,0 2.9166,-1.3066 2.9166,-2.9166 0,-1.61 -1.3066,-2.9167 -2.9166,-2.9167 m 0.5833,1.1667 c 0.6417,0 1.1667,0.525 1.1667,1.1666 0,0.6417 -0.525,1.1667 -1.1667,1.1667 -0.6417,0 -1.1667,-0.525 -1.1667,-1.1667 0,-0.6416 0.525,-1.1666 1.1667,-1.1666"
+       fill="#aaaaaa"
+       style="stroke-width:0"
+       id="path921" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="114"
+       x="1313.3333"
+       y="1196.4414"
+       id="text923"
+       style="stroke-width:0.0200054">inventory_id: INT</text>
+  </g>
+  <g
+     id="link_suppliers_products"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="255"
+       d="m 1130.94,301.81 c -33.85,35.86 -66.56,79.24 -84.44,126.19 -9.75,25.6 12.28,75.5 41.28,124.97"
+       fill="none"
+       id="suppliers-products"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="95"
+       x="1047.5"
+       y="442.897"
+       id="text927"
+       style="stroke-width:0.56576242;stroke-dasharray:none">supplier_ids = id</text>
+  </g>
+  <g
+     id="link_products_order_details"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="256"
+       d="m 1094.97,830.16 c -16.76,25.44 -34.41,51.61 -51.47,75.84 -18.22,25.88 -38.34,53.18 -57.77,78.95"
+       fill="none"
+       id="products-order_details"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="89"
+       x="1020.5"
+       y="950.89697"
+       id="text931"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = product_id</text>
+  </g>
+  <g
+     id="link_customers_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="257"
+       d="m 789.83,398.07 c -14.43,25.84 -29.29,52.43 -43.88,78.57"
+       fill="none"
+       id="customers-orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="98"
+       x="772.5"
+       y="442.897"
+       id="text935"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = customer_id</text>
+  </g>
+  <g
+     id="link_employees_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="258"
+       d="m 1492.75,321.23 c -34.04,28.96 -73.01,57.23 -113.25,76.77 -60.37,29.32 -82.38,15.93 -148,30 -37.43,8.02 -46.16,13.22 -84,19 -81.99,12.51 -300.07,-11.28 -372,30 -6.17,3.54 -12.15,7.46 -17.94,11.69"
+       fill="none"
+       id="employees-orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="100"
+       x="1232.5"
+       y="442.897"
+       id="text939"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = employee_id</text>
+  </g>
+  <g
+     id="link_orders_order_details"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="259"
+       d="m 757.65,894.39 c 20.12,30.96 40.3,62.02 58.73,90.39"
+       fill="none"
+       id="orders-order_details"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="793.5"
+       y="950.89697"
+       id="text943"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = order_id</text>
+  </g>
+  <g
+     id="link_orders_invoices"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="260"
+       d="m 626.5,906.13 c 0,38.07 0,75.77 0,107.86"
+       fill="none"
+       id="orders-invoices"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="627.5"
+       y="950.89697"
+       id="text947"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = order_id</text>
+  </g>
+  <g
+     id="link_order_details_status_order_details"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="261"
+       d="m 907.86,734.55 c -2.27,58.31 -6.46,166.02 -9.73,250.07"
+       fill="none"
+       id="order_details_status-order_details"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="78"
+       x="901.5"
+       y="950.89697"
+       id="text951"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = status_id</text>
+  </g>
+  <g
+     id="link_orders_status_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="262"
+       d="m 130.79,245.7 c 21.32,41.64 57.71,105.67 100.71,152.3 77.37,83.9 181.72,159.97 263.73,213.5"
+       fill="none"
+       id="orders_status-orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="78"
+       x="280.5"
+       y="442.897"
+       id="text955"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = status_id</text>
+  </g>
+  <g
+     id="link_orders_tax_status_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="263"
+       d="m 388.21,245.87 c 27.87,52.01 77.19,144.03 123.76,230.92"
+       fill="none"
+       id="orders_tax_status-orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="497.5"
+       y="442.897"
+       id="text959"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = tax_status_id</text>
+  </g>
+  <g
+     id="link_shippers_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="264"
+       d="m 630.1,398.07 c -0.32,25.84 -0.64,52.43 -0.97,78.57"
+       fill="none"
+       id="shippers-orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="86"
+       x="631.5"
+       y="442.897"
+       id="text963"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = shipper_id</text>
+  </g>
+  <g
+     id="link_privileges_employee_privileges"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="265"
+       d="m 2141.32,245.87 c -13.44,92.21 -45.23,310.23 -58.66,402.36"
+       fill="none"
+       id="privileges-employee_privileges"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="92"
+       x="2114.5"
+       y="442.897"
+       id="text967"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = privilege_id</text>
+  </g>
+  <g
+     id="link_employees_employee_privileges"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="266"
+       d="m 1724,358.62 c 15.99,14.9 33.25,28.5 51.5,39.38 53.91,32.15 86.72,-6.19 138,30 78.23,55.21 126.61,161.05 148.74,220.07"
+       fill="none"
+       id="employees-employee_privileges"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="100"
+       x="1933.5"
+       y="442.897"
+       id="text971"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = employee_id</text>
+  </g>
+  <g
+     id="link_suppliers_purchase_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="267"
+       d="m 1323.5,398.09 c 9.25,17.03 19.27,33.59 30,48.91 36.45,52.01 85.23,101.86 130.37,142.75"
+       fill="none"
+       id="suppliers-purchase_orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="89"
+       x="1354.5"
+       y="442.897"
+       id="text975"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = supplier_id</text>
+  </g>
+  <g
+     id="link_employees_purchase_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="268"
+       d="m 1706.5,398.22 c 3.08,9.94 5.78,19.9 8,29.78 6.42,28.65 4.08,58.23 -3.3,86.74"
+       fill="none"
+       id="employees-purchase_orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="90"
+       x="1717.5"
+       y="442.897"
+       id="text979"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = created_by</text>
+  </g>
+  <g
+     id="g985"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="269"
+       d="m 1492.93,348.05 c -14.97,25.38 -28.01,52.5 -36.43,79.95 -14.21,46.32 1.43,93.25 27.29,134.37"
+       fill="none"
+       id="employees-purchase_orders-1"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="107"
+       x="1457.5"
+       y="442.897"
+       id="text983"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = submitted_by</text>
+  </g>
+  <g
+     id="g990"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="270"
+       d="m 1602.06,398.19 c -0.22,10.08 -0.41,20.06 -0.56,29.81 -0.44,28.03 -0.26,57.75 0.26,86.72"
+       fill="none"
+       id="employees-purchase_orders-2"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="103"
+       x="1602.5"
+       y="442.897"
+       id="text988"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = approved_by</text>
+  </g>
+  <g
+     id="link_purchase_order_status_purchase_orders"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="271"
+       d="m 1879.23,245.63 c -8.73,50.25 -27.58,135.71 -62.73,201.37 -22.3,41.66 -52.73,82.5 -83.42,118.48"
+       fill="none"
+       id="purchase_order_status-purchase_orders"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="78"
+       x="1826.5"
+       y="442.897"
+       id="text993"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = status_id</text>
+  </g>
+  <g
+     id="link_purchase_orders_purchase_order_details"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="272"
+       d="m 1483.84,867.76 c -12.55,22.31 -24.07,45.36 -33.34,68.24 -8.63,21.29 -15.06,45.04 -19.83,67.81"
+       fill="none"
+       id="purchase_orders-purchase_order_details"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="135"
+       x="1451.5"
+       y="950.89697"
+       id="text997"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = purchase_order_id</text>
+  </g>
+  <g
+     id="link_products_purchase_order_details"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="273"
+       d="m 1261.24,830.21 c 32.48,56.81 69.41,121.39 99.21,173.51"
+       fill="none"
+       id="products-purchase_order_details"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="89"
+       x="1328.5"
+       y="950.89697"
+       id="text1001"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = product_id</text>
+  </g>
+  <g
+     id="link_purchase_orders_inventory_transactions"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="274"
+       d="m 1635.79,868.1 c 7.72,112 -1.5,254.62 -75.29,355.9 -64.32,88.29 -180.07,136.06 -272.85,161.32"
+       fill="none"
+       id="purchase_orders-inventory_transactions"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="135"
+       x="1636.5"
+       y="1109.897"
+       id="text1005"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = purchase_order_id</text>
+  </g>
+  <g
+     id="link_order_details_inventory_transactions"
+     style="stroke-width:0.141441"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="275"
+       d="m 963.47,1224.33 c 11.39,16.82 23.56,33.53 36.03,48.67 8.26,10.03 17.2,20.07 26.46,29.9"
+       fill="none"
+       id="order_details-inventory_transactions"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="137"
+       x="1000.5"
+       y="1268.897"
+       id="text1009"
+       style="stroke-width:0.0200054">id = customer_order_id</text>
+  </g>
+  <g
+     id="link_inventory_transaction_types_inventory_transactions"
+     style="stroke-width:0.56576242;stroke-dasharray:none"
+     transform="matrix(7.0697778,0,0,7.0704332,-49.238456,-49.243021)">
+    <path
+       codeLine="276"
+       d="m 1146.5,1147.8 c 0,39.9 0,101.44 0,155.09"
+       fill="none"
+       id="inventory_transaction_types-inventory_transactions"
+       style="stroke:#181818;stroke-width:0.56576242;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="125"
+       x="1147.5"
+       y="1268.897"
+       id="text1013"
+       style="stroke-width:0.56576242;stroke-dasharray:none">id = transaction_type</text>
+  </g>
+</svg>

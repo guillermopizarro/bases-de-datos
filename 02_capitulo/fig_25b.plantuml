@@ -1,0 +1,93 @@
+@startuml
+
+!define primary_key(x) <b><color:#b8861b><&key></color> x</b>
+!define foreign_key(x) <color:#aaaaaa><&key></color> x
+!define column(x) <color:#efefef><&media-record></color> x
+!define table(x) entity x << (T, #efd52e) >>
+
+table(Carrera) {
+  primary_key(id_carrera): BIGINT
+  --
+  column(nombre): VARCHAR(50) NN
+}
+table(Programa_Academico) {
+  primary_key(codigo): VARCHAR(20)
+  --
+  column(fecha_inicio): DATE NN
+  column(fecha_finalizacion): DATE N
+  foreign_key(id_carrera): BIGINT NN 
+}
+table(Materia_Programa_Academico) {
+  primary_key(codigo):  VARCHAR(20)
+  primary_key(id_materia): BIGINT 
+  --
+}
+table(Periodo) {
+  primary_key(id_periodo): BIGINT 
+  --
+  column(nombre): VARCHAR(50) NN
+}
+table(Materia) {
+  primary_key(codigo): BIGINT
+  --
+  column(nombre): VARCHAR(50) NN
+}
+table(Curso) {
+  primary_key(id_curso): BIGINT 
+  --
+  column(nombre): VARCHAR(50) NN
+  foreign_key(id_docente): VARCHAR(10) N
+  foreign_key(id_materia): BIGINT NN
+  foreign_key(id_periodo): BIGINT NN
+}
+table(Matricular) {
+  primary_key(id_estudiante): VARCHAR(10)
+  primary_key(id_curso): BIGINT 
+  --
+  column(fecha_registro): TIMESTAMP NN
+}
+table(Ciudad) {
+  primary_key(id_ciudad): BIGINT
+  --
+  column(nombre): VARCHAR(50) NN 
+  foreign_key(id_pais): BIGINT NN
+}
+table(Pais) {
+  primary_key(id_pais): BIGINT
+  --
+  column(nombre): VARCHAR(50) NN
+}
+table(Estudiante) {
+  primary_key(cedula): VARCHAR(10)
+  --
+  column(nombre): VARCHAR(50) NN
+  column(apellido): VARCHAR(50) NN
+  column(email_institucional): VARCHAR(20) NN
+  column(email): VARCHAR(20) NN
+  column(domicilio):  VARCHAR(100) NN
+  column(telefono):  VARCHAR(20) NN  
+  column(telefono_convencional):  VARCHAR(20) N  
+  foreign_key(id_ciudad): BIGINT NN
+}
+table(Docente) {
+  primary_key(cedula): VARCHAR(10)
+  --
+  column(nombre): VARCHAR(50) NN
+  column(apellido): VARCHAR(50) NN
+  column(email_institucional): VARCHAR(20) NN
+  column(email): VARCHAR(20) NN
+  column(domicilio):  VARCHAR(100) NN
+  column(telefono):  VARCHAR(20) NN  
+  column(telefono_convencional):  VARCHAR(20) N  
+}
+Materia_Programa_Academico -- Materia : codigo = id_materia
+Programa_Academico -- Materia_Programa_Academico: codigo = codigo
+Carrera -- Programa_Academico : id_carrera = id_carrera
+Periodo -- Curso : id_periodo = id_periodo
+Materia -- Curso : codigo = id_materia
+Estudiante -- Matricular : cedula = id_estudiante
+Estudiante -- Ciudad : id_ciudad = id_ciudad
+Curso -- Docente : id_docente = cedula
+Ciudad -- Pais : id_pais = id_pais
+Matricular -- Curso : id_curso = id_curso
+@enduml

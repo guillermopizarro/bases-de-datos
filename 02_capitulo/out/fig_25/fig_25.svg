@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="6535.9312"
+   preserveAspectRatio="none"
+   version="1.1"
+   viewBox="0 0 5437.0869 6535.9312"
+   width="5437.0869"
+   zoomAndPan="magnify"
+   id="svg262"
+   sodipodi:docname="fig_25.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="fig_25.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview264"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.16588967"
+     inkscape:cx="3499.3138"
+     inkscape:cy="714.33021"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg262" />
+  <defs
+     id="defs2" />
+  <g
+     id="elem_Carrera"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="1"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="Carrera"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="193"
+       x="93.5"
+       y="7" />
+    <circle
+       cx="160.25"
+       cy="23"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse5"
+       r="11" />
+    <path
+       d="m 161.0938,29.75 h -2.4532 V 19.5 H 155.5 v -2.1406 h 8.7344 V 19.5 h -3.1406 z"
+       fill="#000000"
+       id="path7"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="51"
+       x="180.75"
+       y="28.431999"
+       id="text9"
+       style="stroke-width:0.0379716">Carrera</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="94.5"
+       x2="285.5"
+       y1="39"
+       y2="39"
+       id="line11" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="181"
+       x="99.5"
+       y="57.9659"
+       id="text13"
+       style="stroke-width:0.0379716">id_carrera BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="94.5"
+       x2="285.5"
+       y1="66.067902"
+       y2="66.067902"
+       id="line15" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="99.5"
+       y="85.033897"
+       id="text17"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_Programa_Academico"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="6"
+       fill="#f1f1f1"
+       height="124.2717"
+       id="Programa_Academico"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="209"
+       x="85.5"
+       y="172" />
+    <circle
+       cx="114.9"
+       cy="188"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse21"
+       r="11" />
+    <path
+       d="m 115.7438,194.75 h -2.4532 V 184.5 H 110.15 v -2.1406 h 8.7344 V 184.5 h -3.1406 z"
+       fill="#000000"
+       id="path23"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="145"
+       x="132.10001"
+       y="193.43201"
+       id="text25"
+       style="stroke-width:0.0379716">Programa_Academico</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="86.5"
+       x2="293.5"
+       y1="204"
+       y2="204"
+       id="line27" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="91.5"
+       y="222.9659"
+       id="text29"
+       style="stroke-width:0.0379716">codigo VARCHAR(20) NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="86.5"
+       x2="293.5"
+       y1="231.0679"
+       y2="231.0679"
+       id="line31" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="144"
+       x="91.5"
+       y="250.03391"
+       id="text33"
+       style="stroke-width:0.0379716">fecha_inicio DATE NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="174"
+       x="91.5"
+       y="269.10181"
+       id="text35"
+       style="stroke-width:0.0379716">fecha_finalizacion DATE N</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="184"
+       x="91.5"
+       y="288.16971"
+       id="text37"
+       style="stroke-width:0.0379716">id_carrera BIGINT NN «FK»</text>
+  </g>
+  <g
+     id="elem_Materia_Programa_Academico"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="13"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="Materia_Programa_Academico"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="366"
+       x="7"
+       y="442" />
+    <circle
+       cx="84.25"
+       cy="458"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse41"
+       r="11" />
+    <path
+       d="M 85.0938,464.75 H 82.6406 V 454.5 H 79.5 v -2.1406 h 8.7344 V 454.5 h -3.1406 z"
+       fill="#000000"
+       id="path43"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="203"
+       x="104.75"
+       y="463.43201"
+       id="text45"
+       style="stroke-width:0.0379716">Materia_Programa_Academico</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="8"
+       x2="372"
+       y1="474"
+       y2="474"
+       id="line47" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="354"
+       x="13"
+       y="492.96591"
+       id="text49"
+       style="stroke-width:0.0379716">id_programa_academico VARCHAR(20) NN «PK» «FK»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="218"
+       x="13"
+       y="512.03387"
+       id="text51"
+       style="stroke-width:0.0379716">id_materia BIGINT NN «PK» «FK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="8"
+       x2="372"
+       y1="520.1358"
+       y2="520.1358"
+       id="line53" />
+  </g>
+  <g
+     id="elem_Periodo"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="18"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="Periodo"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="196"
+       x="316"
+       y="683.5" />
+    <circle
+       cx="384.25"
+       cy="699.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse57"
+       r="11" />
+    <path
+       d="m 385.0938,706.25 h -2.4532 V 696 H 379.5 v -2.1406 h 8.7344 V 696 h -3.1406 z"
+       fill="#000000"
+       id="path59"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="51"
+       x="404.75"
+       y="704.93201"
+       id="text61"
+       style="stroke-width:0.0379716">Periodo</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="317"
+       x2="511"
+       y1="715.5"
+       y2="715.5"
+       id="line63" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="184"
+       x="322"
+       y="734.46588"
+       id="text65"
+       style="stroke-width:0.0379716">id_periodo BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="317"
+       x2="511"
+       y1="742.56787"
+       y2="742.56787"
+       id="line67" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="322"
+       y="761.53387"
+       id="text69"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_Materia"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="23"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="Materia"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="182"
+       x="99"
+       y="683.5" />
+    <circle
+       cx="159.75"
+       cy="699.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse73"
+       r="11" />
+    <path
+       d="m 160.5938,706.25 h -2.4532 V 696 H 155 v -2.1406 h 8.7344 V 696 h -3.1406 z"
+       fill="#000000"
+       id="path75"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="52"
+       x="180.25"
+       y="704.93201"
+       id="text77"
+       style="stroke-width:0.0379716">Materia</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="100"
+       x2="280"
+       y1="715.5"
+       y2="715.5"
+       id="line79" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="158"
+       x="105"
+       y="734.46588"
+       id="text81"
+       style="stroke-width:0.0379716">codigo BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="100"
+       x2="280"
+       y1="742.56787"
+       y2="742.56787"
+       id="line83" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="105"
+       y="761.53387"
+       id="text85"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_Curso"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="28"
+       fill="#f1f1f1"
+       height="143.3396"
+       id="Curso"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="225"
+       x="301.5"
+       y="858" />
+    <circle
+       cx="390.25"
+       cy="874"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse89"
+       r="11" />
+    <path
+       d="m 391.0938,880.75 h -2.4532 V 870.5 H 385.5 v -2.1406 h 8.7344 V 870.5 h -3.1406 z"
+       fill="#000000"
+       id="path91"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="39"
+       x="410.75"
+       y="879.43201"
+       id="text93"
+       style="stroke-width:0.0379716">Curso</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="302.5"
+       x2="525.5"
+       y1="890"
+       y2="890"
+       id="line95" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="169"
+       x="307.5"
+       y="908.96588"
+       id="text97"
+       style="stroke-width:0.0379716">id_curso BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="302.5"
+       x2="525.5"
+       y1="917.06787"
+       y2="917.06787"
+       id="line99" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="307.5"
+       y="936.03387"
+       id="text101"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="213"
+       x="307.5"
+       y="955.10181"
+       id="text103"
+       style="stroke-width:0.0379716">id_docente VARCHAR(10) N «FK»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="183"
+       x="307.5"
+       y="974.16968"
+       id="text105"
+       style="stroke-width:0.0379716">id_materia BIGINT NN «FK»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="183"
+       x="307.5"
+       y="993.23761"
+       id="text107"
+       style="stroke-width:0.0379716">id_periodo BIGINT NN «FK»</text>
+  </g>
+  <g
+     id="elem_Matricular"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="36"
+       fill="#f1f1f1"
+       height="105.2038"
+       id="Matricular"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="293"
+       x="547.5"
+       y="674" />
+    <circle
+       cx="654.75"
+       cy="690"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse111"
+       r="11" />
+    <path
+       d="m 655.5938,696.75 h -2.4532 V 686.5 H 650 v -2.1406 h 8.7344 V 686.5 h -3.1406 z"
+       fill="#000000"
+       id="path113"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="70"
+       x="675.25"
+       y="695.43201"
+       id="text115"
+       style="stroke-width:0.0379716">Matricular</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="548.5"
+       x2="839.5"
+       y1="706"
+       y2="706"
+       id="line117" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="281"
+       x="553.5"
+       y="724.96588"
+       id="text119"
+       style="stroke-width:0.0379716">id_estudiante VARCHAR(10) NN «PK» «FK»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="207"
+       x="553.5"
+       y="744.03387"
+       id="text121"
+       style="stroke-width:0.0379716">id_curso BIGINT NN «PK» «FK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="548.5"
+       x2="839.5"
+       y1="752.1358"
+       y2="752.1358"
+       id="line123" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="206"
+       x="553.5"
+       y="771.10181"
+       id="text125"
+       style="stroke-width:0.0379716">fecha_registro TIMESTAMP NN</text>
+  </g>
+  <g
+     id="elem_Ciudad"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="42"
+       fill="#f1f1f1"
+       height="105.2038"
+       id="Ciudad"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="190"
+       x="876"
+       y="674" />
+    <circle
+       cx="942.75"
+       cy="690"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse129"
+       r="11" />
+    <path
+       d="m 943.5938,696.75 h -2.4532 V 686.5 H 938 v -2.1406 h 8.7344 V 686.5 h -3.1406 z"
+       fill="#000000"
+       id="path131"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="48"
+       x="963.25"
+       y="695.43201"
+       id="text133"
+       style="stroke-width:0.0379716">Ciudad</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="877"
+       x2="1065"
+       y1="706"
+       y2="706"
+       id="line135" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="178"
+       x="882"
+       y="724.96588"
+       id="text137"
+       style="stroke-width:0.0379716">id_ciudad BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="877"
+       x2="1065"
+       y1="733.06787"
+       y2="733.06787"
+       id="line139" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="882"
+       y="752.03387"
+       id="text141"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="159"
+       x="882"
+       y="771.10181"
+       id="text143"
+       style="stroke-width:0.0379716">id_pais BIGINT NN «FK»</text>
+  </g>
+  <g
+     id="elem_Pais"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="48"
+       fill="#f1f1f1"
+       height="86.135803"
+       id="Pais"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="182"
+       x="880"
+       y="886.5" />
+    <circle
+       cx="953.25"
+       cy="902.5"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse147"
+       r="11" />
+    <path
+       d="m 954.0938,909.25 h -2.4532 V 899 H 948.5 v -2.1406 h 8.7344 V 899 h -3.1406 z"
+       fill="#000000"
+       id="path149"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="27"
+       x="973.75"
+       y="907.93201"
+       id="text151"
+       style="stroke-width:0.0379716">Pais</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="881"
+       x2="1061"
+       y1="918.5"
+       y2="918.5"
+       id="line153" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="160"
+       x="886"
+       y="937.46588"
+       id="text155"
+       style="stroke-width:0.0379716">id_pais BIGINT NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="881"
+       x2="1061"
+       y1="945.56787"
+       y2="945.56787"
+       id="line157" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="886"
+       y="964.53387"
+       id="text159"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+  </g>
+  <g
+     id="elem_Estudiante"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="53"
+       fill="#f1f1f1"
+       height="219.6113"
+       id="Estudiante"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="271"
+       x="696.5"
+       y="375" />
+    <circle
+       cx="791.75"
+       cy="391"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse163"
+       r="11" />
+    <path
+       d="m 792.5938,397.75 h -2.4532 V 387.5 H 787 v -2.1406 h 8.7344 V 387.5 h -3.1406 z"
+       fill="#000000"
+       id="path165"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="72"
+       x="812.25"
+       y="396.43201"
+       id="text167"
+       style="stroke-width:0.0379716">Estudiante</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="697.5"
+       x2="966.5"
+       y1="407"
+       y2="407"
+       id="line169" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="702.5"
+       y="425.96591"
+       id="text171"
+       style="stroke-width:0.0379716">cedula VARCHAR(10) NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="697.5"
+       x2="966.5"
+       y1="434.0679"
+       y2="434.0679"
+       id="line173" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="702.5"
+       y="453.03391"
+       id="text175"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="171"
+       x="702.5"
+       y="472.10181"
+       id="text177"
+       style="stroke-width:0.0379716">apellido VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="243"
+       x="702.5"
+       y="491.16971"
+       id="text179"
+       style="stroke-width:0.0379716">email_institucional VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="158"
+       x="702.5"
+       y="510.23761"
+       id="text181"
+       style="stroke-width:0.0379716">email VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="702.5"
+       y="529.30548"
+       id="text183"
+       style="stroke-width:0.0379716">domicilio VARCHAR(100) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="176"
+       x="702.5"
+       y="548.37341"
+       id="text185"
+       style="stroke-width:0.0379716">telefono VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="259"
+       x="702.5"
+       y="567.44141"
+       id="text187"
+       style="stroke-width:0.0379716">telefono_convencional VARCHAR(20) N</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="143"
+       x="702.5"
+       y="586.50928"
+       id="text189"
+       style="stroke-width:0.0379716">id_ciudad BIGINT NN</text>
+  </g>
+  <g
+     id="elem_Docente"
+     style="stroke-width:0.194863"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <rect
+       codeLine="65"
+       fill="#f1f1f1"
+       height="200.5433"
+       id="Docente"
+       rx="0.48714676"
+       ry="0.48716882"
+       style="stroke:#181818;stroke-width:0.0974316"
+       width="271"
+       x="278.5"
+       y="1080" />
+    <circle
+       cx="382.25"
+       cy="1096"
+       fill="#efd52e"
+       style="stroke:#181818;stroke-width:0.194863"
+       id="ellipse193"
+       r="11" />
+    <path
+       d="m 383.0938,1102.75 h -2.4532 V 1092.5 H 377.5 v -2.1406 h 8.7344 v 2.1406 h -3.1406 z"
+       fill="#000000"
+       id="path195"
+       style="stroke-width:0.0379716" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="55"
+       x="402.75"
+       y="1101.432"
+       id="text197"
+       style="stroke-width:0.0379716">Docente</text>
+    <line
+       style="stroke:#181818;stroke-width:0.0974316"
+       x1="279.5"
+       x2="548.5"
+       y1="1112"
+       y2="1112"
+       id="line199" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="197"
+       x="284.5"
+       y="1130.9659"
+       id="text201"
+       style="stroke-width:0.0379716">cedula VARCHAR(10) NN «PK»</text>
+    <line
+       style="stroke:#181818;stroke-width:0.194863"
+       x1="279.5"
+       x2="548.5"
+       y1="1139.0679"
+       y2="1139.0679"
+       id="line203" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="170"
+       x="284.5"
+       y="1158.0339"
+       id="text205"
+       style="stroke-width:0.0379716">nombre VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="171"
+       x="284.5"
+       y="1177.1018"
+       id="text207"
+       style="stroke-width:0.0379716">apellido VARCHAR(50) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="243"
+       x="284.5"
+       y="1196.1697"
+       id="text209"
+       style="stroke-width:0.0379716">email_institucional VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="158"
+       x="284.5"
+       y="1215.2375"
+       id="text211"
+       style="stroke-width:0.0379716">email VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="190"
+       x="284.5"
+       y="1234.3055"
+       id="text213"
+       style="stroke-width:0.0379716">domicilio VARCHAR(100) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="176"
+       x="284.5"
+       y="1253.3734"
+       id="text215"
+       style="stroke-width:0.0379716">telefono VARCHAR(20) NN</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="259"
+       x="284.5"
+       y="1272.4414"
+       id="text217"
+       style="stroke-width:0.0379716">telefono_convencional VARCHAR(20) N</text>
+  </g>
+  <g
+     id="link_Materia_Programa_Academico_Materia"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="76"
+       d="m 190,528.27 c 0,43.64 0,111.35 0,154.98"
+       fill="none"
+       id="Materia_Programa_Academico-Materia"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="117"
+       x="191"
+       y="639.89697"
+       id="text221"
+       style="stroke-width:0.77945246;stroke-dasharray:none">codigo = id_materia</text>
+  </g>
+  <g
+     id="link_Programa_Academico_Materia_Programa_Academico"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="77"
+       d="m 190,296.23 c 0,45.22 0,105.59 0,145.53"
+       fill="none"
+       id="Programa_Academico-Materia_Programa_Academico"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="201"
+       x="191"
+       y="340.897"
+       id="text225"
+       style="stroke-width:0.77945246;stroke-dasharray:none">codigo = id_programa_academico</text>
+  </g>
+  <g
+     id="link_Carrera_Programa_Academico"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="78"
+       d="m 190,93.21 c 0,23.31 0,52.69 0,78.49"
+       fill="none"
+       id="Carrera-Programa_Academico"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="131"
+       x="191"
+       y="137.897"
+       id="text229"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_carrera = id_carrera</text>
+  </g>
+  <g
+     id="link_Periodo_Curso"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="79"
+       d="m 414,769.64 c 0,25.55 0,58.81 0,88.29"
+       fill="none"
+       id="Periodo-Curso"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="141"
+       x="415"
+       y="823.89697"
+       id="text233"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_periodo = id_periodo</text>
+  </g>
+  <g
+     id="link_Materia_Curso"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="80"
+       d="m 228.44,769.81 c 17.35,18.44 38.44,39.95 58.56,58.19 10.94,9.91 22.73,19.99 34.57,29.74"
+       fill="none"
+       id="Materia-Curso"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="117"
+       x="288"
+       y="823.89697"
+       id="text237"
+       style="stroke-width:0.77945246;stroke-dasharray:none">codigo = id_materia</text>
+  </g>
+  <g
+     id="link_Estudiante_Matricular"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="81"
+       d="m 769.06,595.24 c -15.78,27.39 -31.99,55.51 -45.29,78.59"
+       fill="none"
+       id="Estudiante-Matricular"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="133"
+       x="752"
+       y="639.89697"
+       id="text241"
+       style="stroke-width:0.77945246;stroke-dasharray:none">cedula = id_estudiante</text>
+  </g>
+  <g
+     id="link_Estudiante_Ciudad"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="82"
+       d="m 895.4,595.24 c 15.89,27.39 32.22,55.51 45.61,78.59"
+       fill="none"
+       id="Estudiante-Ciudad"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="127"
+       x="924"
+       y="639.89697"
+       id="text245"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_ciudad = id_ciudad</text>
+  </g>
+  <g
+     id="link_Curso_Docente"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="83"
+       d="m 414,1001.19 c 0,24.44 0,52.31 0,78.63"
+       fill="none"
+       id="Curso-Docente"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="118"
+       x="415"
+       y="1045.897"
+       id="text249"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_docente = cedula</text>
+  </g>
+  <g
+     id="link_Ciudad_Pais"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="84"
+       d="m 971,779 c 0,33.27 0,76.02 0,107.27"
+       fill="none"
+       id="Ciudad-Pais"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="95"
+       x="972"
+       y="823.89697"
+       id="text253"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_pais = id_pais</text>
+  </g>
+  <g
+     id="link_Matricular_Curso"
+     style="stroke-width:0.77945246;stroke-dasharray:none"
+     transform="matrix(5.1319235,0,0,5.1316915,-35.673459,-35.671846)">
+    <path
+       codeLine="85"
+       d="M 629.75,779.07 C 609.3,795.08 586.42,812.56 565,828 c -13.67,9.85 -28.22,19.97 -42.68,29.83"
+       fill="none"
+       id="Matricular-Curso"
+       style="stroke:#181818;stroke-width:0.77945246;stroke-dasharray:none" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="113"
+       x="592"
+       y="823.89697"
+       id="text257"
+       style="stroke-width:0.77945246;stroke-dasharray:none">id_curso = id_curso</text>
+  </g>
+</svg>

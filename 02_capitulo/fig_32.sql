@@ -1,0 +1,3 @@
+DROP TABLE pais;
+
+DROP TABLE IF EXISTS pais;

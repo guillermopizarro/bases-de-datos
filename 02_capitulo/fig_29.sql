@@ -1,0 +1,5 @@
+CREATE TABLE pais (
+    id_pais BIGINT NOT NULL AUTO_INCREMENT,
+    nombre  VARCHAR(20) NOT NULL,
+    CONSTRAINT pk_pais PRIMARY KEY (id_pais)
+) ENGINE=InnoDB;

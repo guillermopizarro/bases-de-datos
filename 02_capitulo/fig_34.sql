@@ -1,0 +1,6 @@
+ALTER TABLE ciudad
+  ADD CONSTRAINT fk_ciudad_pais
+  FOREIGN KEY (id_pais)
+  REFERENCES pais(id_pais)
+  ON DELETE CASCADE
+  ON UPDATE CASCADE;
